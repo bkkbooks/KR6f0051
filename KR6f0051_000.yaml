@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0051/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘入諸佛境界智光明莊嚴經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0359.xml
+    old_id: T12n0359
+hash: sha256:da43e0a4f315df538c9bb9883e21d8027d93f3cab0d12e067e02cb8fb31d2ce6

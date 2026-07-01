@@ -1,0 +1,96 @@
+canonical_identifier: bkk:krp/KR6f0051/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0051/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘入諸佛境界智光明莊嚴經
+  identifiers:
+    krp: KR6f0051
+    cbeta: T12n0359
+    cbeta_old_id: T12n0359
+    authorityid: CA0002693
+    json_key: T0359
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0359.xml
+    old_id: T12n0359
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0051_000-T.yaml, hash: 'sha256:da43e0a4f315df538c9bb9883e21d8027d93f3cab0d12e067e02cb8fb31d2ce6'}
+  - {seq: 1, filename: KR6f0051_001-T.yaml, hash: 'sha256:3626c0f45c843b3ddc8135d6ed369f22a361933091da8c66459b1168e134e49d'}
+  - {seq: 2, filename: KR6f0051_002-T.yaml, hash: 'sha256:1c2d126fdbf07dd286a022896cdb103af244de5c1c51fba5350cc5c6c915bd5d'}
+  - {seq: 3, filename: KR6f0051_003-T.yaml, hash: 'sha256:f5c3faf6e8aaa5bcfa7b45dc960a8ea350dba5571c98cfdb85fdc4256f5ffaaa'}
+  - {seq: 4, filename: KR6f0051_004-T.yaml, hash: 'sha256:228e24b7be84af2b5975f2c8a16898a1e3548db9ef9710c82cfe89e64f96b309'}
+  - {seq: 5, filename: KR6f0051_005-T.yaml, hash: 'sha256:369be9cb6e6f37c960413b2861649bcc2dfa495e22340e718b677f379d3d2c00'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0051_000-T.markers.yaml, hash: 'sha256:c1681f5edc8b1c3d6baeb38074a29079bc6c1c1512ecb75e6e703bdf55cf1d18'}
+  - {seq: 1, role: markers, filename: assets/KR6f0051_001-T.markers.yaml, hash: 'sha256:9e56b971ea3debe9601d21a02a6a0d28a500fb772669b4acfc7efe87b544564a'}
+  - {seq: 2, role: markers, filename: assets/KR6f0051_002-T.markers.yaml, hash: 'sha256:ab73edbb934aa8cdb24687d4e8161a658764bec274d212a9ecd53cd395a51aae'}
+  - {seq: 3, role: markers, filename: assets/KR6f0051_003-T.markers.yaml, hash: 'sha256:32997f1d8108dc70419fdee1843a81c859eac027a1da71b23b94df1687b64d39'}
+  - {seq: 4, role: markers, filename: assets/KR6f0051_004-T.markers.yaml, hash: 'sha256:9e277a36e955e11d48f3042c3032d570111ce954cb7c587f126573c046ce6b97'}
+  - {seq: 5, role: markers, filename: assets/KR6f0051_005-T.markers.yaml, hash: 'sha256:225951679282b1c82a42ed9b8781edba640cc849a94ae26fae648a0489b31952'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0051_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3047
+  label: '佛說大乘入諸佛境界智光明莊
+
+    嚴經卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0051_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3227
+  label: '佛說大乘入諸佛境界智光明莊
+
+    嚴經卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0051_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3777
+  label: '佛說大乘入諸佛境界智光明莊
+
+    嚴經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0051_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 2958
+  label: '佛說大乘入諸佛境界智光明莊
+
+    嚴經卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6f0051_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 2712
+  label: '佛說大乘入諸佛境界智光明莊
+
+    嚴經卷第五'
+  type: juan
+  level: 1
+hash: sha256:535b32d924f958d8c145efdf6bed0232238098c9e2868850a85297abaf686afc
